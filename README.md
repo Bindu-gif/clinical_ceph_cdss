@@ -1,6 +1,6 @@
 # **clinical_ceph_cdss**
 
-Automated Cephalometric Landmark Detection Using Machine Learning
+AI-Based Clinical Decision Support for Orthodontic Treatment Planning Using Cephalometric Analysis
 
 ## **1. Project Overview**
 
