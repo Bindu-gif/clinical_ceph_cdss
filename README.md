@@ -116,28 +116,19 @@ The notebook generates:
 
 ---
 
-## **8. Conclusion
+## **8. Conclusion**
 
 This project demonstrates a functional AI-based Clinical Decision Support System (CDSS) for orthodontic treatment planning using cephalometric analysis. The workflow includes image preprocessing, landmark extraction, feature engineering, and machine-learning-based prediction. Even with a small dataset, the system successfully replicates the essential pipeline followed in real orthodontic AI applications.
 
 Key contributions of this project include:
-
 Automated ingestion and processing of cephalometric X-ray images
-
 Visualization of anatomical landmarks
-
 Implementation of regression-based landmark prediction
-
 Generation of interpretable outputs for clinical decision support
 
 Future improvements can include:
-
 Expanding to a larger and clinically validated dataset
-
 Using advanced deep learning models (CNNs, U-Net, Faster R-CNN) for higher accuracy
-
 Adding automated cephalometric measurements and orthodontic treatment suggestions
-
 Integrating the system into real clinical CDSS workflows
-
 Overall, this project provides a strong foundation for developing a fully automated cephalometric analysis tool and meets the objectives of SAT 5141 – Clinical Decision Support Systems.
