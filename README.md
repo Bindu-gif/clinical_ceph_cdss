@@ -30,12 +30,13 @@ img3.png
 Each image includes three manually assigned landmark coordinates stored in labels.csv.
 
 The reduced dataset enables:
-*complete demonstration of preprocessing
-*landmark visualization
-*feature extraction
-*regression-based prediction
-*error measurement
-*interpretable CDSS workflow
+
+* complete demonstration of preprocessing
+* landmark visualization
+* feature extraction
+* regression-based prediction
+* error measurement
+* interpretable CDSS workflow
 
 This approach maintains methodological correctness while ensuring the notebook remains lightweight and easy to run.
 
