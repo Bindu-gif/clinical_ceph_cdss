@@ -15,13 +15,13 @@ This project is for **SAT 5141 – Clinical Decision Support Systems** final res
 
 This project references clinically validated cephalometric datasets for methodological justification:
 
-Bimler Cephalometry Dataset (Kaggle) – contains orthodontic cephalograms with soft-tissue and skeletal measurements.
-Cephalometric Variables Dataset (Figshare) – includes real patient cephalometric readings used in orthodontic diagnosis and treatment planning.
+* Bimler Cephalometry Dataset (Kaggle) – contains orthodontic cephalograms with soft-tissue and skeletal measurements.
+* Cephalometric Variables Dataset (Figshare) – includes real patient cephalometric readings used in orthodontic diagnosis and treatment planning.
 These datasets demonstrate how cephalometric analysis is performed in real-world orthodontic workflows.
 
 Practical Dataset Used in This Project
 
-For the purpose of demonstrating the Clinical Decision Support System (CDSS) pipeline, a small curated set of 3 cephalometric X-ray images was used:
+* For the purpose of demonstrating the Clinical Decision Support System (CDSS) pipeline, a small curated set of 3 cephalometric X-ray images was used:
 
 img1.png
 img2.png
